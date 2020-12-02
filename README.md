@@ -1,13 +1,8 @@
----
-noteId: "66a27fd0346c11eba2309dcdfff0d975"
-tags: []
 
----
 
 # ACP2020
 paper/poster/Conference papers are in press.
 
-<<<<<<< HEAD
 ### paper1(M4A.325)
 
 <img src=".\M4A.325\M4A.325_1.png" alt="M4A.325_1" style="zoom:50%;" /><img src=".\M4A.325\M4A.325_2.png" alt="M4A.325_2" style="zoom:50%;" /><img src=".\M4A.325\M4A.325_3.png" alt="M4A.325_3" style="zoom:50%;" />
