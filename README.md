@@ -15,8 +15,5 @@ paper/poster/Conference papers are in press.
 
 <img src="./poster/poster_1.png" alt="image" style="zoom:50%;" />
 =======
-![image](https://github.com/wcy111/ACP2020/blob/main/poster/poster_1.png)
->>>>>>> ef7774c4bb8181c8091c906e81ef3c14e4213f4f
-
 
 
