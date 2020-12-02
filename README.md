@@ -1,2 +1,3 @@
 # ACP2020
-poster/paper
+paper/poster
+Conference papers are in press.
